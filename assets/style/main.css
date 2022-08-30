@@ -12865,10 +12865,6 @@ section .circle {
   background-image: url("../images/able/2.jpg");
 }
 
-.swiper-slide-03 {
-  background-image: url("../images/able/3.jpg");
-}
-
 .swiper-cube .swiper-cube-shadow:before {
   background: #b89e99;
 }
